@@ -1,0 +1,11 @@
+important questions 
+1. search for the head tags content
+2. search for [block elements vs inline elements]
+3. search for semantic tags or web
+4. search for @media queries
+5. search for responsive web design 
+6. search for css reset 
+7. search for class vs id in css , id has the pirority
+
+the way to write id -> #idName
+the way to write class -> .className
